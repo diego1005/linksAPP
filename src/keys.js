@@ -1,8 +1,9 @@
 module.exports = {
     database: {
         host: "localhost",
-        user: "root",
-        password: "",
-        database: "db_links"
+        user: "dblinks",
+        password: "dblinks123",
+        database: "db_links",
+        port: 3308
     }
 }
